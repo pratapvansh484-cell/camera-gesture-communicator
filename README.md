@@ -10,7 +10,7 @@ A mobile app to help mute and deaf people communicate with others using their ph
 - User-friendly interface for quick interaction
 
 ## Goal
-To bridge the communication gap for mute and deaf individuals.
+To bridge the communication gap for mute and deaf individuals and also to make it easy for mute and deaf individuals to connect with normal people.
 
 ## Sign Language Dataset Link
 https://www.kaggle.com/kernels/fork-version/72933562
